@@ -79,19 +79,6 @@
   </a>
 </div>
 
-<!-- Hover Animation Styling -->
-<style>
-  div a img {
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-    margin: 10px;
-  }
-  div a img:hover {
-    transform: scale(1.2);
-    box-shadow: 0px 4px 12px rgba(0,0,0,0.2);
-    border-radius: 10px;
-  }
-</style>
-
 </p>
 
 ---
@@ -106,8 +93,7 @@
 ## 🚀 Projects
 - **Barniq** – Flutter + Spring Boot app for social media, featuring posts, stories, likes, real-time messaging, and location-aware feeds. [🌐 Website](https://barniq.in)  
 - **Gestura** – Non-ML-based real-time Gesture recognition system.  
-- **Sizzle** – AI-based recipe and calorie detector using computer vision.  
-- **Aegis-AI** – Cybersecurity system with real-time packet monitoring and anomaly detection.  
+- **Plant Caretaker** – Hybrid project for watering plants using arduino.  
 
 ---
 
