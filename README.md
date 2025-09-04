@@ -30,17 +30,46 @@
 
 ### 🛠️ Languages and Tools
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <div align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/bhanu-pratap-singh-18920a1b6/?trk=opento_sprofile_topcard" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/Bhanu-0001/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+  </a>
+
+  <!-- Google Drive -->
+  <a href="https://drive.google.com/drive/folders/1bI-tXuQgGDnFcpoe-MIg9VbeKY-EuQsr?usp=sharing" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" alt="Drive" width="40" height="40"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Bhanu002-git" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40" height="40"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:bpr2273@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+  </a>
+</div>
+
+<!-- Hover Animation Styling -->
+<style>
+  div a img {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    margin: 10px;
+  }
+  div a img:hover {
+    transform: scale(1.2);
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.2);
+    border-radius: 10px;
+  }
+</style>
+
 </p>
 
 ---
