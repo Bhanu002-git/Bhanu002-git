@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Kumar Sharma</h1>
+<h1 align="center">Hi 👋, I'm Bhanu Pratap Singh</h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -9,11 +9,11 @@
 ---
 
 ### 🌱 About Me
-- 🔭 I’m currently working on **Full-Stack MERN Projects as a Freelancer**
-- 🌱 I’m focusing on **Leetcode DSA**
-- 💬 Ask me about **Fullstack, JavaScript, React.js, Node.js, Java, MongoDB, DSA**
-- 📫 How to reach me: **harshkrsharmaa@gmail.com**
-- ⚡ Fun fact: **I write code that sometimes works on the first try. It's scary.**
+- 🔭 I’m currently working on **Building Problem Solving Skills**
+- 🌱 I’m focusing on **Leetcode, DSA, Communication,Projects, Fresher Jobs**
+- 💬 Ask me about **C++, DSA, Database, OS, Networking, Basic Web Development, Standard Java, SQL, Python**
+- 📫 How to reach me: **bpr2273@gmail.com**
+- ⚡ Fun fact: **Not so good coder**
 
 ---
 
@@ -68,17 +68,15 @@
 ---
 
 ## 📜 Certifications
-- [View Certificates](https://drive.google.com/drive/folders/1WIwIBl5_DFWfJNAIQfWmig3-VqPk6zUU?usp=sharing)  
-- Python Essential  
-- Ethical Hacker  
-- Data Analyst  
-- Google – Generative AI  
-- Cisco – Cybersecurity Essentials  
-
+- [View Certificates](https://drive.google.com/drive/folders/1bI-tXuQgGDnFcpoe-MIg9VbeKY-EuQsr?usp=sharing)  
+- Cisco – Cybersecurity Essentials, Networking, Python Essential, Language C++ and Java 
+- Virtual internship - Google cloud Generative AI certificate
+- One Month internship- CodeBuckets solutions
+- Microsoft Learn Student Program certificate
+  
 ---
 
 ## 🏆 Achievements
 - ✅ Solved 300+ LeetCode problems  
-- 💻 Participant, Hackaccino 3.0 (Bennett University)  
-- 🥇 Winner, SGFI Boxing  
-- 📄 Published Research Paper: [AI-Driven Autonomous Accident Prevention and Alertness System](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5032116)  
+- 💻 Participant, Hackaccino 3.0 (Bennett University)
+- An offer Letter from Wipro in diploma for WILP program  
