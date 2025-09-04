@@ -19,11 +19,33 @@
 
 ### 🌐 Connect With Me
 <p>
-  <a href="https://twitter.com/Harshkrsharm" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30" /></a>
-  <a href="https://www.youtube.com/@Barniq.official" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" height="40" width="40" /></a>
-  <a href="https://www.linkedin.com/in/harsh-kr-sharma-4961182a8/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="https://leetcode.com/u/harshkrsharmaa/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40" /></a>
-  <a href="https://barniq.in" target="_blank"><img align="center" src="https://i.ibb.co/9FFwYq2/barniq-Logo.jpg" alt="BARNIQ" height="40" width="40" /></a>
+  <div align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/bhanu-pratap-singh-18920a1b6/?trk=opento_sprofile_topcard" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/Bhanu-0001/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+  </a>
+
+  <!-- Google Drive -->
+  <a href="https://drive.google.com/drive/folders/1bI-tXuQgGDnFcpoe-MIg9VbeKY-EuQsr?usp=sharing" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" alt="Drive" width="40" height="40"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Bhanu002-git" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40" height="40"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:bpr2273@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+  </a>
+</div>
+
 </p>
 
 ---
