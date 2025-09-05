@@ -72,12 +72,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkrsharma&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
----
 
 ## 🚀 Projects
 - **Barniq** – Flutter + Spring Boot app for social media, featuring posts, stories, likes, real-time messaging, and location-aware feeds. [🌐 Website](https://barniq.in)  
