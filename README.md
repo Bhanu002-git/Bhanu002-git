@@ -48,6 +48,11 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" alt="Drive" width="40" height="40"/>
   </a>
 
+  <!-- Barniq -->
+  <a href="https://www.barniq.in/" target="_blank" rel="noreferrer">
+    <img src="https://www.barniq.in/favicon.ico" alt="Barniq" width="40" height="40"/>
+  </a>
+
   <!-- GitHub -->
   <a href="https://github.com/Bhanu002-git" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40" height="40"/>
