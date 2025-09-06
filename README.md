@@ -19,16 +19,13 @@
 
 ### Skills
 
- -C++
- -DSA
- -Database
- -OS
- -Networking
- -Basic Web Development
- -Standard Java
- -SQL
- -Python
- -Cybersecurity
+- DSA problem solving 
+- Database management
+- Web Development
+- Networking
+- Cybersecurity
+- Basic Backend and Frontend
+- Project management
 
 ---
 ### 🌐 Connect With Me
@@ -129,6 +126,7 @@
 - Virtual internship - Google cloud Generative AI certificate
 - One Month internship- CodeBuckets solutions
 - Microsoft Learn Student Program certificate
+- One week academic training of cybersecurity in collaboration with PaloAlto
   
 ---
 
