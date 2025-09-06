@@ -9,13 +9,27 @@
 ---
 
 ### 🌱 About Me
-- 🔭 I’m currently working on **Building Problem Solving Skills**
+- 🔭 I’m currently working on **Building Problem Solving Skills and a great career ahead**
 - 🌱 I’m focusing on **Leetcode, DSA, Communication,Projects, Fresher Jobs**
-- 💬 Ask me about **C++, DSA, Database, OS, Networking, Basic Web Development, Standard Java, SQL, Python**
+- 💬 Ask me about **C++, DSA, Database, OS, Networking, Basic Web Development, Standard Java, SQL, Python, Cybersecurity**
 - 📫 How to reach me: **bpr2273@gmail.com**
 - ⚡ Fun fact: **Not so good coder**
 
 ---
+
+### Skills
+
+-C++
+-DSA
+-Database
+-OS
+-Networking
+-Basic Web Development
+-Standard Java
+-SQL
+-Python
+-Cybersecurity
+-
 
 ### 🌐 Connect With Me
 <p>
@@ -96,8 +110,8 @@
 
 
 ## 🚀 Projects
-- **Barniq** – Flutter + Spring Boot app for social media, featuring posts, stories, likes, real-time messaging, and location-aware feeds. [🌐 Website](https://barniq.in)  
-- **Gestura** – Non-ML-based real-time Gesture recognition system.  
+- **Barniq** – Flutter + Spring Boot app for social media, featuring posts, stories, likes, real-time messaging, and location-aware feeds as collaborator. [🌐 Website](https://barniq.in)  
+- **Gestura** – Non-ML-based real-time Gesture recognition system as collabrator.
 - **Plant Caretaker** – Hybrid project for watering plants using arduino.  
 
 ---
