@@ -19,7 +19,7 @@
 
 ### Skills
 
-- DSA problem solving 
+- Problem solving 
 - Database management
 - Web Development
 - Networking
