@@ -19,18 +19,18 @@
 
 ### Skills
 
--C++
--DSA
--Database
--OS
--Networking
--Basic Web Development
--Standard Java
--SQL
--Python
--Cybersecurity
+ -C++
+ -DSA
+ -Database
+ -OS
+ -Networking
+ -Basic Web Development
+ -Standard Java
+ -SQL
+ -Python
+ -Cybersecurity
 
-
+---
 ### 🌐 Connect With Me
 <p>
   <div align="center">
