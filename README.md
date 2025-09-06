@@ -9,11 +9,11 @@
 ---
 
 ### 🌱 About Me
-- 🔭 I’m currently working on **Building Problem Solving Skills and a great career ahead**
-- 🌱 I’m focusing on **Leetcode, DSA, Communication,Projects, Fresher Jobs**
-- 💬 Ask me about **C++, DSA, Database, OS, Networking, Basic Web Development, Standard Java, SQL, Python, Cybersecurity, Cloud**
+- 🔭 I’m currently working on **Building Problem Solving Skills and a great career ahead.**
+- 🌱 I’m focusing on **Leetcode, DSA, Communication,Projects, Building a Tech career.**
+- 💬 Ask me about **C++, DSA, Database, OS, Networking, Basic Web Development, Standard Java, SQL, Python, Cybersecurity, Cloud.**
 - 📫 How to reach me: **bpr2273@gmail.com**
-- ⚡ Fun fact: **Not so good coder**
+- ⚡ Fun fact: **Not so good coder.**
 
 ---
 
