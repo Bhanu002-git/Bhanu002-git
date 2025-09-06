@@ -29,7 +29,7 @@
 -SQL
 -Python
 -Cybersecurity
--
+
 
 ### 🌐 Connect With Me
 <p>
