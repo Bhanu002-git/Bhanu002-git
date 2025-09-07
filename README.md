@@ -115,7 +115,7 @@
 
 ## 🚀 Projects
 - **Barniq** – Flutter + Spring Boot app for social media, featuring posts, stories, likes, real-time messaging, and location-aware feeds as collaborator. [🌐 Website](https://barniq.in)  
-- **Gestura** – Non-ML-based real-time Gesture recognition system as collaborator for specially abled peaople.
+- **Gestura** – Non-ML-based real-time Gesture recognition system as collaborator for specially abled people.
 - **Plant Caretaker** – Hybrid project for watering plants using arduino and cpp.  
 
 ---
